@@ -11,7 +11,7 @@
 - 🤝 **Looking to collaborate on:** Innovative web projects, API integrations, and performance-optimized solutions.
 - 🆘 **Looking for help with:** Advanced STUN/TURN server setups, complex WebRTC workflows, and best practices in large-scale web app optimization.
 - 📚 **Currently learning:** Advanced OAuth flows, microservices architecture, and cloud deployment strategies.
-- ⚡ **Skills:** RESTful APIs, Agile methodology, Git/GitHub, performance optimization, real-time web applications.
+- ⚡ **Skills:** HTML5, CSS3, Javascript, React.js, Node.js, Express.js, MongoDB, MySQl, RESTful APIs, Agile methodology, Git/GitHub, performance optimization, real-time web applications.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhanshu.ok1802@gmail.com) 
