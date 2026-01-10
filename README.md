@@ -6,12 +6,13 @@
   I’m a passionate full-stack developer turning ideas into fast, interactive web apps. I secretly enjoy debugging code at 2 AM 😅
 </p>
 
-## 💫 About Me:
-- 💻 **Currently working on:** Building scalable full-stack applications using ReactJS, Node.js, Express, MongoDB, MySQL, with real-time communication using WebSockets & WebRTC.
-- 🤝 **Looking to collaborate on:** Innovative web projects, API integrations, and performance-optimized solutions.
-- 🆘 **Looking for help with:** Advanced STUN/TURN server setups, complex WebRTC workflows, and best practices in large-scale web app optimization.
-- 📚 **Currently learning:** Advanced OAuth flows, microservices architecture, and cloud deployment strategies.
-- ⚡ **Skills:** HTML5, CSS3, Javascript, React.js, Node.js, Express.js, MongoDB, MySQl, RESTful APIs, Agile methodology, Git/GitHub, performance optimization, real-time web applications.
+## 💫 About Me
+- 💻 **I build:** Scalable full-stack applications with React, Node.js, Express, MongoDB & MySQL, focused on performance and real-time experiences.  
+- 🚀 **Passionate about:** Crafting smooth user experiences, optimizing backend workflows, and turning complex ideas into clean code.  
+- 🤝 **Collaboration:** Open to innovative web projects, API integrations, and tools that simplify developer workflows.  
+- 📚 **Always learning:** Advanced OAuth flows, microservices, cloud deployment, and real-time tech like WebSockets & WebRTC.  
+- ⚡ **Skills:** React.js, Node.js, Express, REST APIs, MongoDB/MySQL, Git, and high-performance web apps.
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhanshu.ok1802@gmail.com) 
