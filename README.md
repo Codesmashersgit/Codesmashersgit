@@ -1,9 +1,11 @@
 <p align="center">
-  <h1>Hi there 👋 I’m Sudhanshu Raj</h1>
+  <img src="https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Background" width="100%" style="border-radius:10px; opacity:0.8;">
 </p>
-<img src="https://images.unsplash.com/photo-1431440869543-efaf3388c585?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100"/>
+
+<h1 align="center">Hi there 👋, I’m Sudhanshu Raj</h1>
+
 <p align="center">
-  I’m a passionate full-stack developer turning ideas into fast, interactive web apps. I secretly enjoy debugging code at 2 AM 😅
+I’m a passionate full-stack developer turning ideas into fast, interactive web apps. I secretly enjoy debugging code at 2 AM 😅
 </p>
 
 ## 💫 About Me
@@ -11,8 +13,11 @@
 - 🚀 **Passionate about:** Crafting smooth user experiences, optimizing backend workflows, and turning complex ideas into clean code.  
 - 🤝 **Collaboration:** Open to innovative web projects, API integrations, and tools that simplify developer workflows.  
 - 📚 **Always learning:** Advanced OAuth flows, microservices, cloud deployment, and real-time tech like WebSockets & WebRTC.  
-- ⚡ **Skills:** React.js, Node.js, Express, REST APIs, MongoDB/MySQL, Git, and high-performance web apps.
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="coding gif"/>
+</p>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhanshu.ok1802@gmail.com) 
