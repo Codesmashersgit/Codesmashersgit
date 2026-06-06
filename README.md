@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" style="border-radius:15px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvS1AJKkzgLAryDsn54SM4Chk_px4fhffEuw&s" width="100%" style="border-radius:15px;" />
 </p>
 
 <h1 align="center">Hi there 👋 I’m Sudhanshu Raj</h1>
