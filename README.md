@@ -1,7 +1,7 @@
 <p align="center">
   <h1>Hi there 👋 I’m Sudhanshu Raj</h1>
 </p>
-
+<img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://images.unsplash.com/photo-1505832018823-50331d70d237?q=80&w=1208&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" width="100"/>
 <p align="center">
   I’m a passionate full-stack developer turning ideas into fast, interactive web apps. I secretly enjoy debugging code at 2 AM 😅
 </p>
