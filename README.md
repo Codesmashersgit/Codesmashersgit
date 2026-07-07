@@ -263,46 +263,6 @@ Learning & Adaptation    ██████████████████�
 ```
 
 
----
-
-# 📊 GitHub Intelligence
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Codesmashersgit&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Codesmashersgit&theme=transparent&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codesmashersgit&theme=transparent&hide_border=true&layout=compact"/>
-
-</p>
-
-
----
-
-# 🐍 Contribution Activity
-
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Codesmashersgit/Codesmashersgit/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-
----
-
 # 📡 Connect
 
 
