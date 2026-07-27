@@ -2,292 +2,178 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvS1AJKkzgLAryDsn54SM4Chk_px4fhffEuw&s" width="100%" style="border-radius:20px;" />
 </p>
 
-<h1 align="center">
-  ⚡ Sudhanshu Raj
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full Stack Developer | Backend Engineer | System Builder</b>
-</p>
+# ⚡ Sudhanshu Raj
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Systems;React+%7C+Node.js+%7C+MongoDB;Designing+Real-Time+Applications;Turning+Ideas+Into+Products" />
-</p>
+### Full Stack Developer • Backend Engineer • System Builder
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=FFD700&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Backend+Engineering;React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New" />
+
+<img src="https://komarev.com/ghpvc/?username=Codesmashersgit&style=for-the-badge&color=FFD700"/>
+
+</div>
 
 ---
 
-# 🧠 Developer Profile
+# 👋 About Me
 
+```js
+const sudhanshu = {
+    role: "Full Stack Developer",
 
-```yaml
-name: Sudhanshu Raj
+    code: [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL"
+    ],
 
-role:
-  - Full Stack Developer
-  - Backend Engineer
+    architecture: [
+        "REST APIs",
+        "Authentication",
+        "Real-Time Systems",
+        "Scalable Backend"
+    ],
 
-engineering_focus:
-  - Scalable Web Applications
-  - Real Time Systems
-  - API Architecture
-  - Clean User Experience
+    currentlyLearning: [
+        "Microservices",
+        "System Design",
+        "Docker",
+        "AWS"
+    ],
 
-current_learning:
-  - Microservices
-  - WebRTC
-  - OAuth
-  - System Design
-
-status:
-  available_for_collaboration: true
+    funFact:
+        "I enjoy building products that solve real problems."
+}
 ```
 
-
 ---
 
-# 📈 Engineering Growth Analytics
-
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://quickchart.io/chart?width=850&height=400&c={
-type:'line',
-data:{
-labels:[
-'2022',
-'2023',
-'2024',
-'2025',
-'2026'
-],
-datasets:[
-{
-label:'Engineering Growth',
-data:[
-20,
-45,
-65,
-82,
-96
-],
-borderColor:'#D4AF37',
-backgroundColor:'rgba(212,175,55,0.15)',
-borderWidth:4,
-fill:true,
-tension:0.45,
-pointBackgroundColor:'#FFD700',
-pointRadius:6
-}
-]
-},
-options:{
-plugins:{
-legend:{
-labels:{
-color:'#D4AF37'
-}
-}
-},
-scales:{
-x:{
-ticks:{
-color:'#999'
-},
-grid:{
-color:'#222'
-}
-},
-y:{
-ticks:{
-color:'#999'
-},
-grid:{
-color:'#222'
-}
-}
-}
-}
-}" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,docker,git,github,vscode,postman,vercel&perline=8"/>
 
 </p>
 
+---
 
-<p align="center">
+# 📌 Featured Projects
 
-<b>🟡 Engineering Momentum: 96%</b>
+## 💬 Real-Time Chat App
 
-</p>
+> Socket.io + Authentication + MongoDB
 
+⭐ Features
+
+- Live Messaging
+- Online Users
+- JWT Auth
+- Responsive UI
 
 ---
 
-# 🏗️ Software Architecture
+## 🛒 Ecommerce Backend
 
-
-```
-                         CLIENT LAYER
-
-                              |
-                              |
-
-                 React + Modern UI Systems
-
-                              |
-
-                              |
-
-                      API GATEWAY LAYER
-
-                              |
-
-                              |
-
-              Node.js + Express + Authentication
-
-                              |
-
-                              |
-
-                    SERVICE LAYER
-
-                              |
-
-        MongoDB -------- MySQL -------- Socket.io
-
-                              |
-
-                              |
-
-                         Deployment
-
-```
-
-
----
-
-# ⚙️ Engineering Domains
-
-
-<table>
-<tr>
-
-<td width="33%">
-
-### 🎨 Frontend
-
-- React
-- JavaScript
-- TailwindCSS
-- React Query
-- UI Architecture
-
-</td>
-
-
-<td width="33%">
-
-### 🚀 Backend
-
-- Node.js
-- Express
 - REST APIs
 - Authentication
-- WebSockets
-
-</td>
-
-
-<td width="33%">
-
-### 🗄 Database
-
-- MongoDB
-- MySQL
-- Data Modeling
-- Query Optimization
-
-</td>
-
-</tr>
-</table>
-
+- Payment Integration
+- Admin Dashboard
 
 ---
 
-# 🧬 Engineering DNA
+## 📚 Learning Management System
 
-
-```
-Problem Solving          ███████████████████ 98%
-
-System Thinking          █████████████████░░ 90%
-
-Frontend Engineering     ██████████████████░ 95%
-
-Backend Development      ████████████████░░░ 88%
-
-API Design               ███████████████░░░░ 85%
-
-Learning & Adaptation    ██████████████████░ 95%
-```
-
+- Student Dashboard
+- Teacher Panel
+- JWT
+- Role Based Access
 
 ---
 
-# 🛠️ Technology Stack
-
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,vite,docker,postman,vercel,netlify&perline=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Codesmashersgit&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Codesmashersgit&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
+
+# 📈 Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codesmashersgit&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🚀 What I Build
+# 📊 Contribution Graph
 
+<p align="center">
 
-```
-01  Full Stack Applications
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codesmashersgit&theme=tokyo-night&hide_border=true"/>
 
-02  Real Time Communication Systems
+</p>
 
-03  Scalable REST APIs
+---
 
-04  Modern User Interfaces
+# 🐍 Contribution Snake
 
-05  Developer Focused Tools
-```
+<p align="center">
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-# 📡 Connect
+</p>
 
+---
+
+# 🎯 Current Focus
+
+✅ Backend Engineering
+
+✅ Clean Architecture
+
+✅ Microservices
+
+✅ Docker
+
+✅ AWS
+
+✅ System Design
+
+---
+
+# 🌎 Connect With Me
 
 <p align="center">
 
 <a href="mailto:sudhanshu.ok1802@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
 
-<img src="https://img.shields.io/badge/Gmail-Contact-D4AF37?style=for-the-badge&logo=gmail&logoColor=black"/>
-
+<a href="https://github.com/Codesmashersgit">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
-
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Codesmashersgit&color=D4AF37&style=for-the-badge"/>
+### ⚡ Build • Scale • Deploy
 
-</p>
+*"Turning ideas into production-ready software."*
 
+</div>
 
-<h3 align="center">
-
-⚡ Build. Scale. Optimize.
-
-</h3>
