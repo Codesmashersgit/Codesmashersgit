@@ -62,38 +62,91 @@ const sudhanshu = {
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-## 💬 Real-Time Chat App
+## 🤖 GhostHire — AI Interview Assistant
 
-> Socket.io + Authentication + MongoDB
+> **AI-powered interview preparation platform** that simulates technical interviews with real-time speech recognition and intelligent feedback.
 
-⭐ Features
+### ✨ Highlights
+- 🧠 AI-generated interview responses using **GPT-4o** and **Gemini**
+- 🎙️ Real-time Speech-to-Text with **Deepgram**
+- 📊 Interview analytics dashboard
+- 🔐 JWT Authentication & secure session management
+- ⚡ Response latency optimized to **under 500ms**
 
-- Live Messaging
-- Online Users
-- JWT Auth
-- Responsive UI
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `Electron` `MongoDB` `GPT-4o` `Gemini` `Deepgram` `JWT`
+
+🔗 **GitHub:** https://github.com/Codesmashersgit/Ghost_Hire
+
+🌐 **Live Demo:** <https://ghosthireweb.netlify.app/>
+
+---
+
+## 💻 Multi-Language Online IDE
+
+> A cloud-based coding environment supporting **15+ programming languages** with secure code execution.
+
+### ✨ Highlights
+- 💡 Monaco Editor (VS Code experience)
+- 🚀 Judge0 API Integration
+- 🐳 Docker-based isolated execution
+- 📡 Real-time output streaming
+- ☁️ Deployed on AWS EC2
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `Docker` `Judge0 API` `Monaco Editor` `AWS EC2`
+
+🔗 **GitHub:** https://github.com/Codesmashersgit/Editor
+
+🌐 **Live Demo:** https://editor-two-omega.vercel.app/
 
 ---
 
-## 🛒 Ecommerce Backend
+## 📹 Real-Time Peer-to-Peer Communication Platform
 
-- REST APIs
-- Authentication
-- Payment Integration
-- Admin Dashboard
+> Production-ready WebRTC platform supporting secure **1:1 video and audio conferencing**.
+
+### ✨ Highlights
+
+- 🎥 WebRTC based video/audio calls
+- ⚡ Less than 100ms communication latency
+- 💬 Socket.IO real-time messaging
+- 🔐 JWT Authentication & Role-Based Access
+- 🐳 Docker Compose deployment
+- ☁️ AWS EC2 + Nginx + PM2
+- 📈 99.5% uptime
+
+**Tech Stack**
+
+`React.js` `Node.js` `WebRTC` `Socket.IO` `Docker` `AWS EC2` `JWT`
+
+🔗 **GitHub:** https://github.com/Codesmashersgit/Nexus
+
+🌐 **Live Demo:** https://nexus1802.netlify.app/
 
 ---
 
-## 📚 Learning Management System
+## 🐞 BugBhai — VS Code Extension
 
-- Student Dashboard
-- Teacher Panel
-- JWT
-- Role Based Access
+> VS Code extension that helps developers identify and fix common coding mistakes directly inside the editor.
 
----
+### ✨ Highlights
+
+- 🧩 Published on VS Code Marketplace
+- ⭐ 20+ installs
+- 📈 4.5/5 user rating
+- ⚡ Lightweight and easy to use
+
+**Tech Stack**
+
+`TypeScript` `VS Code API`
+
+🔗 **Marketplace:** https://marketplace.visualstudio.com/items?itemName=SudhanshuRaj.first-extension-sudhanshu
+
 
 # 📊 GitHub Analytics
 
